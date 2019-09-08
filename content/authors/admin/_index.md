@@ -74,11 +74,11 @@ user_groups:
 - Visitors
 ---
 
-<p style="text-align:justify;"> Asif Ahmed Neloy received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the Lab officer and Undergraduate Teaching Assistant (UGA) of the Dept of Electrical and Computer Engineering (ECE), North South University. <br>He is skilled in machine learning, statistics, problem-solving, business analysis, algorithms, data visualization, and creative thinking. Commitment to providing support and essential information about trends to companies in a variety of industries.
+<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the <strong><i>Lab officer</strong></i> and <strong>Undergraduate Teaching Assistant (UGA) </strong> of the Dept of Electrical and Computer Engineering (ECE), North South University. <br><br>He is skilled in machine learning, statistics, problem-solving, business analysis, algorithms, data visualization, and creative thinking. Commitment to providing support and essential information about trends to companies in a variety of industries.
 
-<br>He is currently digging into Machine Learning for finding out solutions for our day to day problems. He Served as founding Secretary of NSU ACM Student chapter (2017-2018), the first affiliated Student chapter of Bangladesh under ACM and also served as a Vice-Chair of NSU ACM SC 2018-2019.
+<br><br>He is currently digging into Machine Learning for finding out solutions for our day to day problems. He Served as founding <strong>Secretary </strong> of <strong>NSU ACM Student chapter (2017-2018)</strong>, the first affiliated Student chapter of Bangladesh under ACM and also served as a <strong>Vice-Chair</strong> of NSU ACM SC 2018-2019.
 
-<br>Area of interests: Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS, 
+<br><br>Area of interests: Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS, 
 
 </p>
 
