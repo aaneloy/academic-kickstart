@@ -79,11 +79,7 @@ user_groups:
 - Visitors
 ---
 <br></br>
-<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the <strong>Lab Officer</strong> and <strong>Undergraduate Teaching Assistant (UGA) </strong> of the Dept of Electrical and Computer Engineering (ECE), North South University. <br><br>His skills includes <i>machine learning, statistics, problem-solving, business analysis, algorithms, data visualization,</i> and <i>creative thinking</i>. 
-
-He is currently digging into Machine Learning for finding out solutions for our day to day problems. He Served as the <strong>Founding Secretary (2017-2018)</strong> and <strong>Vice-Chair (2018-2019)</strong>  of NSU ACM Student Chapter, the first affiliated Student chapter of Bangladesh under ACM HQ. He received <strong>Service of Recognition</strong> award from ACM for his contribution towards NSU ACM SC. 
-
-His primary area of interests are: Data Science, Machine Learning, Deep learning and Computer Vision. 
+<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the <strong>Lab Officer</strong> and <strong>Undergraduate Teaching Assistant (UGA) </strong> of the Dept of Electrical and Computer Engineering (ECE), North South University. He Served as the <strong>Founding Secretary (2017-2018)</strong> and <strong>Vice-Chair (2018-2019)</strong>  of NSU ACM Student Chapter, the first affiliated Student chapter of Bangladesh under ACM HQ. He received <strong>Service of Recognition</strong> award from ACM for his contribution towards NSU ACM SC. <br>>His skills includes <i>machine learning, statistics, problem-solving, business analysis, algorithms, data visualization,</i> and <i>creative thinking</i>.  
 
 </p>
 
