@@ -30,7 +30,7 @@ education:
   courses:
   - course: BS in Computer Science and Engineering (BS in CSE)
     Specialized Trail: Artificial Intelligence
-    institution: North South University University
+    institution: North South University
     year: 2018
     Thesis: Early Health Prediction System for ICU Patient using Machine Learning and Cloud Computing
 
