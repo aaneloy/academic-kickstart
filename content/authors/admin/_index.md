@@ -80,11 +80,11 @@ user_groups:
 - Visitors
 ---
 
-<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the <strong>Lab officer</strong> and <strong>Undergraduate Teaching Assistant (UGA) </strong> of the Dept of Electrical and Computer Engineering (ECE), North South University. <br><br>He is skilled in <i>machine learning, statistics, problem-solving, business analysis, algorithms, data visualization,</i> and <i>creative thinking</i>. Commitment to providing support and essential information about trends to companies in a variety of industries.
+<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the <strong>Lab Officer</strong> and <strong>Undergraduate Teaching Assistant (UGA) </strong> of the Dept of Electrical and Computer Engineering (ECE), North South University. <br><br>His skills includes <i>machine learning, statistics, problem-solving, business analysis, algorithms, data visualization,</i> and <i>creative thinking</i>. 
 
-<br><br>He is currently digging into Machine Learning for finding out solutions for our day to day problems. He Served as founding <strong>Secretary </strong> of <strong>NSU ACM Student chapter (2017-2018)</strong>, the first affiliated Student chapter of Bangladesh under ACM and also served as a <strong>Vice-Chair</strong> of NSU ACM SC 2018-2019.
+<br><br>He is currently digging into Machine Learning for finding out solutions for our day to day problems. He Served as the <strong>Founding Secretary (2017-2018) and <strong>Vice-Chair (2018-2019)</strong>  of NSU ACM Student Chapter, the first affiliated Student chapter of Bangladesh under ACM HQ. He received <strong>Service of Recognition</strong> award from ACM for his contribution towards NSU ACM SC 
 
-<br><br>Area of interests: Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS, 
+<br><br>His primary area of interests are: Data Science, Machine Learning, Deep learning and Computer Vision. 
 
 </p>
 
