@@ -29,17 +29,16 @@ Interests:
 Education:
   courses:
   - course: BS in Computer Science and Engineering (BS in CSE)
-    Specialized Trail: Artificial Intelligence
-    institution: North South University
-    year: 2018
-    Thesis: Early Health Prediction System for ICU Patient using Machine Learning and Cloud Computing
+    institution: North South University, Dhaka, Bangladesh
+    year: December 2018
 
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Higher Secondary School Certificate (HSC)
+    institution: Ananda Mohan College, Mymensingh, Bangladesh
+    year: 2014
+
+  - course: Secondary School Certificate(SSC),
+    institution: Mymensingh Zilla School, Mymensingh, Bangladesh
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -82,9 +81,9 @@ user_groups:
 <br><br>
 <p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the <strong>Lab Officer</strong> and <strong>Undergraduate Teaching Assistant (UGA) </strong> of the Dept of Electrical and Computer Engineering (ECE), North South University. <br><br>His skills includes <i>machine learning, statistics, problem-solving, business analysis, algorithms, data visualization,</i> and <i>creative thinking</i>. 
 
-<br><br>He is currently digging into Machine Learning for finding out solutions for our day to day problems. He Served as the <strong>Founding Secretary (2017-2018)</strong> and <strong>Vice-Chair (2018-2019)</strong>  of NSU ACM Student Chapter, the first affiliated Student chapter of Bangladesh under ACM HQ. He received <strong>Service of Recognition</strong> award from ACM for his contribution towards NSU ACM SC 
+<br>He is currently digging into Machine Learning for finding out solutions for our day to day problems. He Served as the <strong>Founding Secretary (2017-2018)</strong> and <strong>Vice-Chair (2018-2019)</strong>  of NSU ACM Student Chapter, the first affiliated Student chapter of Bangladesh under ACM HQ. He received <strong>Service of Recognition</strong> award from ACM for his contribution towards NSU ACM SC 
 
-<br><br>His primary area of interests are: Data Science, Machine Learning, Deep learning and Computer Vision. 
+<br>His primary area of interests are: Data Science, Machine Learning, Deep learning and Computer Vision. 
 
 </p>
 
