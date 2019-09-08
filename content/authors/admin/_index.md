@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/aaneloy_cv.pdf` and uncomment the lines below.   
 - icon: CV
   icon_pack: ai
-  link: files/aaneloy_cv.pdf
+  link: https://drive.google.com/file/d/1bWuQpVnL_emFMifSokD52FAD2ScEhgyb/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "asif.neloy@northsouth.edu"
