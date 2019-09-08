@@ -58,6 +58,11 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/NeloyNSU
+- icon: research gate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Asif_Neloy?ev=hdr_xprf
+
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/aaneloy_cv.pdf` and uncomment the lines below.   
 - icon: CV
