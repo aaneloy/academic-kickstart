@@ -28,7 +28,7 @@ Interests:
 
 Education:
   courses:
-  - course: BS in Computer Science and Engineering (BS in CSE)
+  - course: BS in Computer Science and Engineering
     institution: North South University, Dhaka, Bangladesh
     year: December 2018
 
@@ -36,7 +36,7 @@ Education:
     institution: Ananda Mohan College, Mymensingh, Bangladesh
     year: 2014
 
-  - course: Secondary School Certificate(SSC),
+  - course: Secondary School Certificate(SSC)
     institution: Mymensingh Zilla School, Mymensingh, Bangladesh
     year: 2012
 
