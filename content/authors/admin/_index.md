@@ -19,12 +19,10 @@ organizations:
   url: "http://www.northsouth.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Area of interests: Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS, 
+bio: My research interests include Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS, .
 
 interests:
 - Artificial Intelligence
-- Data Science
-- Machine Learning
 - Robotics
 - IoT
 
