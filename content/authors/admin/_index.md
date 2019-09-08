@@ -10,18 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Laboratory Officer.
-organizations:
-- name: Department of Electrical and Computer Engineering (ECE),
-  url: "http://ece.northsouth.edu/"
-organizations:
-- name: North South University
-  url: "http://www.northsouth.edu/"
+role: Laboratory Officer, Department of Electrical and Computer Engineering (ECE),
+
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: North South University
+  url: "http://www.northsouth.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
