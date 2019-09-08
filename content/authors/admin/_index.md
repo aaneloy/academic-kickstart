@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Laboratory Officer, <a href="http://ece.northsouth.edu/" target="_blank">Department of Electrical and Computer Engineering (ECE),</a>
+role: Lab Officer, <a href="http://ece.northsouth.edu/" target="_blank">Department of Electrical and Computer Engineering (ECE),</a>
 
 
 # Organizations/Affiliations
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:asif.neloy@northsouth.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -65,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "asif.neloy@northsouth.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -74,5 +74,11 @@ user_groups:
 - Visitors
 ---
 
-Asif Ahmed Neloy
+Asif Ahmed Neloy received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the Lab officer and Undergraduate Teaching Assistant (UGA) of the Dept of Electrical and Computer Engineering (ECE), North South University. He is skilled in machine learning, statistics, problem-solving, business analysis, algorithms, data visualization, and creative thinking. Commitment to providing support and essential information about trends to companies in a variety of industries.
+
+He is currently digging into Machine Learning for finding out solutions for our day to day problems. He Served as founding Secretary of NSU ACM Student chapter (2017-2018), the first affiliated Student chapter of Bangladesh under ACM and also served as a Vice-Chair of NSU ACM SC 2018-2019.
+
+Area of interests: Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS, 
+
+
   
