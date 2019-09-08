@@ -58,8 +58,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/NeloyNSU
-- icon: research-gate
-  icon_pack: fab
+- icon: researchgate
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Asif_Neloy?ev=hdr_xprf
 
 
