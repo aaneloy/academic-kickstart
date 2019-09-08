@@ -21,12 +21,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS.
 
-interests:
+Interests:
 - Artificial Intelligence
 - Robotics
 - IoT
 
-education:
+Education:
   courses:
   - course: BS in Computer Science and Engineering (BS in CSE)
     Specialized Trail: Artificial Intelligence
@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the <strong><i>Lab officer</strong></i> and <strong>Undergraduate Teaching Assistant (UGA) </strong> of the Dept of Electrical and Computer Engineering (ECE), North South University. <br><br>He is skilled in machine learning, statistics, problem-solving, business analysis, algorithms, data visualization, and creative thinking. Commitment to providing support and essential information about trends to companies in a variety of industries.
+<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the <strong><i>Lab officer</strong></i> and <strong>Undergraduate Teaching Assistant (UGA) </strong> of the Dept of Electrical and Computer Engineering (ECE), North South University. <br><br>He is skilled in <i>machine learning, statistics, problem-solving, business analysis, algorithms, data visualization,</i> and <i>creative thinking</i>. Commitment to providing support and essential information about trends to companies in a variety of industries.
 
 <br><br>He is currently digging into Machine Learning for finding out solutions for our day to day problems. He Served as founding <strong>Secretary </strong> of <strong>NSU ACM Student chapter (2017-2018)</strong>, the first affiliated Student chapter of Bangladesh under ACM and also served as a <strong>Vice-Chair</strong> of NSU ACM SC 2018-2019.
 
