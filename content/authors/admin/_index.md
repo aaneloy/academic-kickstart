@@ -1,24 +1,24 @@
 ---
-# Display name
+
 name: Asif Ahmed Neloy
 
-# Username (this should match the folder name)
+
 authors:
 - admin
 
-# Is this the primary user of the site?
+
 superuser: true
 
-# Role/position
+
 role: <strong>Lab Officer</strong> <br><a href="http://ece.northsouth.edu/" target="_blank">Department of Electrical and Computer Engineering (ECE),</a>
 
 
-# Organizations/Affiliations
+
 organizations: 
 - name: North South University
   url: "http://www.northsouth.edu/"
 
-# Short bio (displayed in user profile at end of posts)
+
 bio: My research interests include Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS.
 
 Interests:
@@ -40,10 +40,7 @@ Education:
     institution: Mymensingh Zilla School, Mymensingh, Bangladesh
     year: 2012
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -69,11 +66,10 @@ social:
   icon_pack: ai
   link: https://drive.google.com/file/d/1bWuQpVnL_emFMifSokD52FAD2ScEhgyb/view?usp=sharing
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+
 email: "asif.neloy@northsouth.edu"
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+
+ 
 user_groups:
 - Researchers
 - Visitors
