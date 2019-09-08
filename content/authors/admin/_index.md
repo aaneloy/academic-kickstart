@@ -19,12 +19,14 @@ organizations:
   url: "http://www.northsouth.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Area of interests: Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS, 
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Machine Learning
+- Robotics
+- IoT
 
 education:
   courses:
