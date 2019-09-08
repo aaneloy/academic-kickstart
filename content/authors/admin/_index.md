@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lab Officer, <a href="http://ece.northsouth.edu/" target="_blank">Department of Electrical and Computer Engineering (ECE),</a>
+role: <strong>Lab Officer</strong> <a href="http://ece.northsouth.edu/" target="_blank">Department of Electrical and Computer Engineering (ECE),</a>
 
 
 # Organizations/Affiliations
@@ -49,22 +49,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:asif.neloy@northsouth.edu".
+
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/seductedneloy
+
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=WjL1EDcAAAAJ&hl=en
+
 - icon: github
   icon_pack: fab
   link: https://github.com/NeloyNSU
+
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Asif_Neloy?ev=hdr_xprf
 
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/aaneloy_cv.pdf` and uncomment the lines below.   
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1bWuQpVnL_emFMifSokD52FAD2ScEhgyb/view?usp=sharing
