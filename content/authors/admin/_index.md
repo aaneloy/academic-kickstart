@@ -19,7 +19,7 @@ organizations:
   url: "http://www.northsouth.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS, .
+bio: My research interests include Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS.
 
 interests:
 - Artificial Intelligence
@@ -28,9 +28,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: BS in Computer Science and Engineering (BS in CSE)
+    Specialized Trail – Artificial Intelligence
+    institution: North South University University
+    year: 2018
+    Thesis: Early Health Prediction System for ICU Patient using Machine Learning and Cloud Computing.
+    
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -72,3 +75,4 @@ user_groups:
 ---
 
 Asif Ahmed Neloy
+  
