@@ -10,8 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: Laboratory Officer, Department of Electrical and Computer Engineering (ECE)
-  
+role: Laboratory Officer,
+- name: Department of Electrical and Computer Engineering (ECE)
+  url: "http://ece.northsouth.edu/"
 
 # Organizations/Affiliations
 organizations:
