@@ -14,9 +14,9 @@ role: Laboratory Officer, <a href="http://ece.northsouth.edu/" target="_blank">D
 
 
 # Organizations/Affiliations
-organizations: <a href= "http://www.northsouth.edu/" target="_blank">North South University</a>
-#- name: North South University
-# url: "http://www.northsouth.edu/"
+organizations: 
+- name: North South University
+  url: "http://www.northsouth.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
