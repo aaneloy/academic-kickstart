@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-<p style="text-align:center;"> Asif Ahmed Neloy received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the Lab officer and Undergraduate Teaching Assistant (UGA) of the Dept of Electrical and Computer Engineering (ECE), North South University. He is skilled in machine learning, statistics, problem-solving, business analysis, algorithms, data visualization, and creative thinking. Commitment to providing support and essential information about trends to companies in a variety of industries.
+<p style="text-align:justify;"> Asif Ahmed Neloy received the BS. Degree in Computer Science and Engineering from the North South University, Dhaka, Bangladesh. He is serving as the Lab officer and Undergraduate Teaching Assistant (UGA) of the Dept of Electrical and Computer Engineering (ECE), North South University. He is skilled in machine learning, statistics, problem-solving, business analysis, algorithms, data visualization, and creative thinking. Commitment to providing support and essential information about trends to companies in a variety of industries.
 
 He is currently digging into Machine Learning for finding out solutions for our day to day problems. He Served as founding Secretary of NSU ACM Student chapter (2017-2018), the first affiliated Student chapter of Bangladesh under ACM and also served as a Vice-Chair of NSU ACM SC 2018-2019.
 
