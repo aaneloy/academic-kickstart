@@ -65,7 +65,7 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/aaneloy_cv.pdf` and uncomment the lines below.   
-- icon: CV
+- icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1bWuQpVnL_emFMifSokD52FAD2ScEhgyb/view?usp=sharing
 
