@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 
-role: <strong>Lab Officer</strong> <br><a href="http://ece.northsouth.edu/" target="_blank">Department of Electrical and Computer Engineering (ECE),</a>
+role: <strong>Lab Officer</strong> <br><a href="http://ece.northsouth.edu/" target="_blank">Department of Electrical and Computer Engineering (ECE)</a>
 
 
 
