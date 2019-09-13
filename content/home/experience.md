@@ -32,10 +32,10 @@ date_format = "Jan 2006"
   * Responsible for conducting the lab classes of the enrolled students.
   * Lab Coursework includes implementing algorithms and theoretical concepts with respective programming languages as deemed necessary by the course curriculum.
   * Grading and Marking students in basis of their results.
-  * Currently enrolled in the Lab course of-
+  * Currently enrolled in the Lab course of- <strong>
       CSE 231 Digital Logic design,
       CSE 332 Computer Organization and Architecture,
-      CSE482 Internet and Web Technology.
+      CSE482 Internet and Web Technology.</strong>
 
   """
 
@@ -48,10 +48,43 @@ date_format = "Jan 2006"
   date_end = "2019-05-06"
   description = """
   Responsibilities include:
-  
+
   * Assisting in scripts checking, Cross-Checking data of the students and grading both the take-home and in-class assignments.
-  * Proctoring exams, helping students on a particular subject and Assisting Faculty in the course CSE331 (MICROPROCESSOR INTERFACING & EMBEDDED SYSTEM).
+  * Proctoring exams, helping students on a particular subject and Assisting Faculty in the course <strong>CSE331 (MICROPROCESSOR INTERFACING & EMBEDDED SYSTEM).</strong>
   * Supervised by <strong>Dr. Sakhawat Hussain, Associate Professor,</strong> and <strong>Rishad Arfin, Lecturer,</strong> Dept of Electrical and Computer Engineering (ECE) of North South University.
+
+  """
+
+  [[experience]]
+  title = "Head of Robotics and Data Science"
+  company = "Desire Glance Youth, Dhaka, Bangladesh"
+  company_url = "https://www.facebook.com/YouthpreneurNetwork"
+  location = "Dhaka, Bangladesh"
+  date_start = "2017-08-01"
+  date_end = "2019-01-01"
+  description = """
+  Responsibilities include:
+
+  * Desire Glance Creative Academy is a concern program of Desire Glance Group. The aim of this academy is to creative tech enthusiast people from the very early stage of school and college and Endorse knowledge about different sectors of the tech world.
+  * <strong>Under my supervision, several projects launched, Successfully developing and overseeing project budgets, schedules, staffing requirements, and SDLC tasks to comprehensively manage all facets of implementation and execution throughout my tenure as an HoD with GoTime Client Services.</strong>
+  * Prepared Five-year Strategic Plan and Business plan for <strong>“National Space Carnival”</strong> and <strong>“Bangladesh General Knowledge Olympiad”. </strong>
+  * I have also worked as a <strong>Mentor</strong> and <strong>Trainer</strong> of <strong>Robotics</strong> and <strong>data analysis</strong> section of Desire Glance Group.
+
+  """
+  [[experience]]
+  title = "Founding Secretary and Vice Chair"
+  company = "NSU ACM Student Chapter, Dhaka, Bangladesh"
+  company_url = "http://ece.northsouth.edu/nsu-activities-and-services/acm-student-chapter/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2017-10-01"
+  date_end = "2018-11-01"
+  description = """
+  Responsibilities include:
+
+  * Founding Secretary of NSU ACM Student Chapter which is the first chartered Student Chapter in Bangladesh, the world’s largest educational and scientific computing society.
+  * As a Secretary and Vice-Chair, I have managed all the administrative workflows and workshops during the fiscal year 2017-2018. Also received <strong>Recognition of Service Award from ACM NY HQ</strong>.
+  * <strong>Certified Trainer of NSU ACM Student Chapter from February 2017 to 2019.</strong>
+  * <strong>Undertook workshops on Machine Learning, Basic Robotics, PCB Design and Robot Operating System (ROS).</strong>
 
   """
 
