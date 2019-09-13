@@ -36,6 +36,18 @@ subtitle = ""
   icon = "fas fa-code"
   icon_pack = "fa"
   name = "Python"
-  description = "60%"
+  description = "70%"
+
+  [[feature]]
+  icon = "fas fa-tasks"
+  icon_pack = "fa"
+  name = "Project Management"
+  description = "80%"
+
+  [[feature]]
+  icon = "fas fa-atom"
+  icon_pack = "fa"
+  name = "Data Analysis"
+  description = "70%"
 
 +++
