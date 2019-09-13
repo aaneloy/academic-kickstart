@@ -36,7 +36,7 @@ date_format = "Jan 2006"
       CSE 231 Digital Logic design,
       CSE 332 Computer Organization and Architecture,
       CSE482 Internet and Web Technology.
-  * 
+
   """
 
 [[experience]]
@@ -48,6 +48,7 @@ date_format = "Jan 2006"
   date_end = "2019-05-06"
   description = """
   Responsibilities include:
+  
   * Assisting in scripts checking, Cross-Checking data of the students and grading both the take-home and in-class assignments.
   * Proctoring exams, helping students on a particular subject and Assisting Faculty in the course CSE331 (MICROPROCESSOR INTERFACING & EMBEDDED SYSTEM).
   * Supervised by <strong>Dr. Sakhawat Hussain, Associate Professor,</strong> and <strong>Rishad Arfin, Lecturer,</strong> Dept of Electrical and Computer Engineering (ECE) of North South University.
