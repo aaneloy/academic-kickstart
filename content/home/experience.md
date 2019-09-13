@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   company = "North South University, Dhaka, Bangladesh"
   company_url = "http://ece.northsouth.edu/"
   location = "Dhaka, Bangladesh"
-  date_start = "201-01-23"
-  date_end = "2016-05-06"
+  date_start = "2019-01-23"
+  date_end = "2019-05-06"
   description = """
   Responsibilities include:
   * Assisting in scripts checking, Cross-Checking data of the students and grading both the take-home and in-class assignments.
