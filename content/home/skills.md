@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-cogs"
+  icon = "fas fa-cogs"
   icon_pack = "fas"
   name = "Machine Learning"
   description = "90%"
