@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-23"
   date_end = ""
   description = """
-  Responsibilities include: <p style="text-align:justify;">
+  Responsibilities include: <div align="justify"> 
   
   * Responsible for conducting the lab classes of the enrolled students.
   * Lab Coursework includes implementing algorithms and theoretical concepts with respective programming languages as deemed necessary by the course curriculum.
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
       CSE 332 Computer Organization and Architecture,
       CSE482 Internet and Web Technology.</strong>
 
-    </p>
+    </div>
 
 
   """
