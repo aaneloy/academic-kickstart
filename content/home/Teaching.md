@@ -9,7 +9,16 @@ weight = 50  # Order that this section will appear.
 # ... Put Your Section Options Here (title etc.) ...
 title = "Currently Teaching"
 subtitle = ""
-description = "none"
+
+
+[[item]]
+  organization = "CSE482"
+  organization_url = "https://github.com/NeloyNSU/CSE482_Summer-19_Section7_github.io"
+  title = "Internet and Web Technology"
+  url = ""
+  date_start = "2019-05-23"
+  date_end = "2019-09-12"
+  description = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
