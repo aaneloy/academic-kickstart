@@ -64,4 +64,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+<p align="justify">
+CSE482: Internet Web Technology
+</p>
 +++
