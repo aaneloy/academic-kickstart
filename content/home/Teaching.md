@@ -9,9 +9,7 @@ weight = 50  # Order that this section will appear.
 # ... Put Your Section Options Here (title etc.) ...
 title = "Currently Teaching"
 subtitle = ""
-
-
-
+description = "none"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
