@@ -28,8 +28,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-05-23"
   date_end = "2019-09-12"
-  description = """
-   <div align="justify"><strong>Course Description:</strong> To introduce a student with the modern web development techniques in order to develop state-of-the-art web applications and that can be scalable with ease. The course provides a comprehensive overview of both front-end and back-end technologies like HTML5, CSS3, JavaScript, PHP and MYSQL. Upon completing the course, a learner will have a concise understanding of server- side and client-side programming knowledge.</div>
+  description = "<strong>Course Description:</strong> <div align="justify">To introduce a student with the modern web development techniques in order to develop state-of-the-art web applications and that can be scalable with ease. The course provides a comprehensive overview of both front-end and back-end technologies like HTML5, CSS3, JavaScript, PHP and MYSQL. Upon completing the course, a learner will have a concise understanding of server- side and client-side programming knowledge</div>."
 
 [[item]]
   organization = "edX"
