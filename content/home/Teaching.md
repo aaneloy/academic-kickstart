@@ -12,10 +12,10 @@ subtitle = ""
 
 
 [[item]]
-  organization = "CSE482"
+  organization = ""
   organization_url = "https://github.com/NeloyNSU/CSE482_Summer-19_Section7_github.io"
-  title = "Internet and Web Technology"
-  url = ""
+  title = "CSE482: Internet and Web Technology"
+  url = "https://github.com/NeloyNSU/CSE482_Summer-19_Section7_github.io"
   date_start = "2019-05-23"
   date_end = "2019-09-12"
   description = ""
