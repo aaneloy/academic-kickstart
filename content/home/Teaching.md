@@ -31,28 +31,34 @@ date_format = "Jan 2006"
   date_start = "2019-05-23"
   date_end = "2019-09-12"
   description = """
-  <div align="justify"> <strong>Course Description:</strong>To introduce a student with the modern web development techniques in order to develop state-of-the-art web applications and that can be scalable with ease. The course provides a comprehensive overview of both front-end and back-end technologies like HTML5, CSS3, JavaScript, PHP and MYSQL. Upon completing the course, a learner will have a concise understanding of server- side and client-side programming knowledge.</div>
-  
+  <div align="justify"> <strong>Course Description:</strong> To introduce a student with the modern web development techniques in order to develop state-of-the-art web applications and that can be scalable with ease. The course provides a comprehensive overview of both front-end and back-end technologies like HTML5, CSS3, JavaScript, PHP and MYSQL. Upon completing the course, a learner will have a concise understanding of server- side and client-side programming knowledge.</div>
+
   """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = ""
+  organization_url = ""
+  title = "CSE332: Computer Organization and Architecture"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-05-23"
+  date_end = "2019-09-12"
+  description = """
+  <div align="justify"> <strong>Course Description:</strong> This course introduces students to the basic concepts of computers, their design and how they work. It encompasses the definition of the machine's instruction set architecture, its use in creating a program, and its implementation in hardware. We will study modern computer principles using a typical processor and emphasize system-level issues, understanding process performance, and the use of abstraction as a tool to manage complexity. We will employ both hardware and software tools to realize a small processor of our own. </div>
+
+  """
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = ""
+  organization_url = ""
+  title = "CSE231: Digital Logic Design"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2019-05-23"
+  date_end = "2019-09-12"
+  description = """
+  <div align="justify"> <strong>Course Description:</strong> This course provides an introduction to logic design and basic tools for the design of digital logic systems. A basic idea of number systems will be provided, followed by a discussion on combinational logic: logic gates, Boolean algebra, minimization techniques, arithmetic circuits (adders, subtractors), basic digital circuits (decoders, encoders, multiplexers, shift registers), programmable logic devices (PROM, PAL, PLA). The course will then cover sequential circuits: flip-flops, state transition tables and diagrams, state minimization, state machines, design of synchronous/asynchronous counters, RAM/ROM design. An introduction to programmable logic will also be provided.</div>
+
+  """
 
 +++
