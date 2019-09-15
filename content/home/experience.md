@@ -79,12 +79,12 @@ date_format = "Jan 2006"
 
   """
   [[experience]]
-  title = "Founding Secretary and Vice Chair"
+  title = "Founding Secretary (2017-2018) and Vice Chair (2018-2019)"
   company = "NSU ACM Student Chapter, Dhaka, Bangladesh"
   company_url = "http://ece.northsouth.edu/nsu-activities-and-services/acm-student-chapter/"
   location = "Dhaka, Bangladesh"
   date_start = "2017-10-01"
-  date_end = "2018-11-01"
+  date_end = "2019-01-01"
   description = """
   Responsibilities include: <div align="justify"> 
 
