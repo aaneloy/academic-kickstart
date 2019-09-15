@@ -8,7 +8,11 @@ weight = 50  # Order that this section will appear.
 
 # ... Put Your Section Options Here (title etc.) ...
 title = "Currently Teaching"
-subtitle = "CSE482: Internet Web Technology"
+subtitle = ""
+
+<p> CSE482: Internet Web Technology</p>
+
+
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
