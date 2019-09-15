@@ -54,7 +54,7 @@ date_format = "Jan 2006"
 
   * Assisting in scripts checking, Cross-Checking data of the students and grading both the take-home and in-class assignments.
   * Proctoring exams, helping students on a particular subject and Assisting Faculty in the course <strong>CSE331 (MICROPROCESSOR INTERFACING & EMBEDDED SYSTEM).</strong>
-  * Supervised by <strong><a href="https://sites.google.com/a/du.ac.bd/dr-sakhawat-hussain/home">Dr. Sakhawat Hussain,</a>Associate Professor</strong> and <strong><a href="http://ece.northsouth.edu/people/rishad-arfin/">Rishad Arfin</a> Lecturer</strong> Dept of Electrical and Computer Engineering (ECE) of North South University.
+  * Supervised by <strong><a href="https://sites.google.com/a/du.ac.bd/dr-sakhawat-hussain/home">Dr. Sakhawat Hussain,</a> Associate Professor</strong> and <strong><a href="http://ece.northsouth.edu/people/rishad-arfin/">Rishad Arfin</a> Lecturer</strong> Dept of Electrical and Computer Engineering (ECE) of North South University.
 
  </div>
 
