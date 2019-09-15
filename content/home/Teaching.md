@@ -10,7 +10,6 @@ weight = 50  # Order that this section will appear.
 title = "Currently Teaching"
 subtitle = ""
 
-<p> CSE482: Internet Web Technology</p>
 
 
 
