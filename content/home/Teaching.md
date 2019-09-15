@@ -17,7 +17,7 @@ date_format = "Jan 2006"
   url = "https://github.com/NeloyNSU/CSE482_Summer-19_Section7_github.io"
   date_start = "2019-05-23"
   date_end = "2019-09-12"
-  description = " Course Description: To introduce a student with the modern web development techniques in order to develop state-of-the-art web applications and that can be scalable with ease. The course provides a comprehensive overview of both front-end and back-end technologies like HTML5, CSS3, JavaScript, PHP and MYSQL. Upon completing the course, a learner will have a concise understanding of server- side and client-side programming knowledge."
+  description = "<p style="text-align:justify;"><strong>Course Description:</strong> To introduce a student with the modern web development techniques in order to develop state-of-the-art web applications and that can be scalable with ease. The course provides a comprehensive overview of both front-end and back-end technologies like HTML5, CSS3, JavaScript, PHP and MYSQL. Upon completing the course, a learner will have a concise understanding of server- side and client-side programming knowledge.</p>"
 
 
 [content]
