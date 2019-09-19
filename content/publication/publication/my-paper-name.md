@@ -5,7 +5,7 @@ Apartment rental prices are influenced by various factors. The aim of this study
 
 """
 abstract_short = """<div align="justify"> 
-The aim of this study is to analyze the different features of an apartment and predict the rental price of it based on multiple factors. An ensemble learning based prediction model is created to reach the goal. We have used a dataset from bProperty.com which includes the rental price and different features of apartments in the city of Dhaka, Bangladesh. The results show the accuracy and prediction of the rent of an apartment, also indicates the different types of categorical values that affect the machine learning models.</div>
+<i>ICMLC'19</i>, Proceedings of the 2019 11th International Conference on Machine Learning and Computing</div>
 """
 authors = ["Asif Ahmed Neloy", "H. M. Sadman Haque", "Md. Mahmud Ul Islam"]
 date = "2019-02-24"
