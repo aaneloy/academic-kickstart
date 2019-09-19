@@ -57,9 +57,7 @@ url = "https://libjohn.github.io/openrefine/"
 name = "Data Science and Visualization Institute for Librarians"
 url = "https://www.lib.ncsu.edu/data-science-and-visualization-institute"
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "bigdata_crop1.png"
-caption = "Image credit: https://flic.kr/p/JjjPof"
+
+
 
 +++
