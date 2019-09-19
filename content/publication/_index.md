@@ -1,8 +1,5 @@
-+++
-
-
-
-title = "Publications"
+---
+title: Publications
 
 # View.
 #   1 = List
@@ -15,6 +12,4 @@ view: 1
 header:
   caption: ""
   image: ""
-
-
-+++
+---
