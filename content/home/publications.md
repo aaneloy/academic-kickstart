@@ -1,74 +1,39 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+
+widget = "accomplishments"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
+
+# ... Put Your Section Options Here (title etc.) ...
+
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+
 title = "Publications"
 subtitle = ""
+date_format = "Jan 2006"
+
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Content-Based Health Recommender System for ICU Patient"
+  organization_url = ""
+  title = "Asif Ahmed Neloy, Muhammad Shafayat Oshman, Md. Monzurul Islam, Md Julhas Hossain, Zunayeed Bin Zahir"
+  url = "https://dl.acm.org/citation.cfm?id=3318377"
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = """
+  <div align="justify"> <strong>Abstract:</strong> In this study, the authors propose a generic architecture, associated terminology and a classificatory model for observing ICU patient’s health condi-tion with a Content-Based Recommender (CBR) system consisting of K-Nearest Neighbors (KNN) and Association Rule Mining (ARM). The aim of this research is to predict or classify the critically conditioned ICU patients for taking imme-diate actions to reduce the mortality rate. Predicting the health of the patients with automatic deployment of the models is the key concept of this research. IBM Cloud is used as Platform as a Service (PaaS) to store and maintain the hospital data. The proposed model demonstrates an accuracy of 95.6% from the KNN Basic ′𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏_𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡′ algorithm. Also, real-time testing of the deployed model showed an accuracy of 87% while comparing the output with the actual condition of the patient. Combining the IBM Cloud with the Recommender System and early prediction of the health, this proposed research can provide a complete med-ical decision for the doctors.</div>
+
+  """
 
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 0
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-
- 
 +++
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
