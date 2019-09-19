@@ -1,28 +1,40 @@
 +++
-
-
+# Recent Publications widget.
+# This widget displays recent publications from `content/publication/`.
 widget = "publications"
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
-
-
-# ... Put Your Section Options Here (title etc.) ...
-
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+active = true
+date = 2016-04-20T00:00:00
 
 title = "Publications"
 subtitle = ""
-date_format = "Jan 2006"
 
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+# Order that this section will appear in.
+weight = 90
 
+# Number of publications to list.
+count = 10
 
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+list_format = 3
+#   4 = Stream
+list_format = 4
 
+# Filter by publication type.
+# -1: Any
+#  0: Uncategorized
+#  1: Conference proceedings
+#  2: Journal
+#  3: Work in progress
+#  4: Technical report
+#  5: Book
+#  6: Book chapter
+publication_type = "-1"
 
+# Exclude publications that are shown in the Selected Publications widget?
+exclude_selected = false
 +++
+
