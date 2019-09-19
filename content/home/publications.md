@@ -21,7 +21,7 @@ count = 10
 #   3 = MLA
 list_format = 3
 #   4 = Stream
-list_format = 4
+
 
 # Filter by publication type.
 # -1: Any
