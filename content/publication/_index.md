@@ -1,5 +1,8 @@
 +++
-title: Publications
+
+
+
+title = "Publications"
 
 # View.
 #   1 = List
