@@ -1,61 +1,66 @@
 +++
-
-
-title = "A publication title, such as title of a paper"
-
-# Date first published.
+abstract = "An anomaly in rare Beryllium decays may be the signature of a new 17 MeV mediator. We diagnosed this anomaly with simplified models, identify the requirements of UV complete theories that could realize them, and outline the independent experimental program required to verify the hypothesis."
+abstract_short = "An anomaly in rare Beryllium decays may be the signature of a new 17 MeV mediator. We diagnosed this anomaly with simplified models, identify the requirements of UV complete theories that could realize them, and outline the independent experimental program required to verify the hypothesis."
+authors = ["J Feng", "B Fornal", "I Galon", "S Gardner", "T Tait", "P Tanedo"]
 date = "2013-07-01"
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
-
-# Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["1"]
-
-# Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
-
-# Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
-
-# Featured image thumbnail (optional)
 image_preview = ""
-
-# Is this a selected publication? (true/false)
+math = true
+publication_types = ["3"]
+publication = "In *PRL* and *Physics Review D*."
+publication_short = "In *PRL* and *Physics Review D*"
 selected = true
-
-
-
-# Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
-url_preprint = ""
+title = "New Physics in Nuclear Transitions"
 url_code = ""
 url_dataset = ""
+url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
-url_source = ""
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+[[url_custom]]
+name = "arXiv PRL"
+url = "https://arxiv.org/abs/1604.07411"
 
-# Does the content use math formatting?
-math = true
+[[url_custom]]
+name = "inSPIRE PRL"
+url = "https://inspirehep.net/record/1452563?ln=en"
 
-# Does the content use source code highlighting?
-highlight = true
 
+[[url_custom]]
+name = "PRL"
+url = "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.071803"
+
+[[url_custom]]
+name = "Altmetric PRL"
+url = "https://aps.altmetric.com/details/6976772"
+
+[[url_custom]]
+name = "arXiv PRD"
+url = "https://arxiv.org/abs/1608.03591"
+
+[[url_custom]]
+name = "inSPIRE PRD"
+url = "https://inspirehep.net/record/1481051?ln=en"
+
+[[url_custom]]
+name = "PRD"
+url = "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.035017"
+
+[[url_custom]]
+name = "Explainer"
+url = "https://particlebites.com/?p=3970"
+
+[[url_custom]]
+name = "LAW Video"
+url = "https://lawphysics.wordpress.com/2016/08/31/w27-flip-tanedo-the-17-mev-anomaly-in-beryllium-8/"
+
+
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "research/IPCArtistLong.png"
+caption = "Internal pair creation as a probe of new physics"
 
 +++
+
+<!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. -->
