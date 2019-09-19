@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = "publications"
 date = 2017-01-01T00:00:00
 math = false
 highlight = false
@@ -10,10 +10,11 @@ highlight = false
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 3
+list_format = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
 caption = ""
+
 +++

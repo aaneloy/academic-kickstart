@@ -3,7 +3,7 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = true
-date = 2016-04-20T00:00:00
+
 
 title = "Publications"
 subtitle = ""
@@ -19,7 +19,7 @@ count = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 3
+list_format = 2
 #   4 = Stream
 
 
