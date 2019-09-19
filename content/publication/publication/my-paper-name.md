@@ -14,8 +14,7 @@ math = true
 publication_types = ["1"]
 publication = "*ICMLC'19*, Proceedings of the 2019 11th International Conference on Machine Learning and Computing"
 selected = true
-title = "
-Ensemble Learning Based Rental Apartment Price Prediction Model by Categorical Features Factoring"
+title = "Ensemble Learning Based Rental Apartment Price Prediction Model by Categorical Features Factoring"
 url_source = "https://dl.acm.org/citation.cfm?id=3318377"
 url_dataset = ""
 url_pdf = ""
