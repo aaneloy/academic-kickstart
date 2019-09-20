@@ -51,7 +51,9 @@ url_pdf = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-url_custom = [{name = "ACM DL", url = "https://dl.acm.org/citation.cfm?id=3318377"}]
+[[url_custom]]
+name = "ACM DL"
+url = "https://dl.acm.org/citation.cfm?id=3318377"
 
 [[url_custom]]
 name = "DOI"
