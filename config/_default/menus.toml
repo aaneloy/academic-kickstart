@@ -13,12 +13,12 @@
 [[main]]
   name = "Teaching"
   url = "#Teaching"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Accomplishments"
   url = "#accomplishment"
-  weight = 40
+  weight = 30
 
 
 [[main]]
