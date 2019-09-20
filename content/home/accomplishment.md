@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = ""
+  organization = "Department of Electrical and Computer Engineering (ECE), North South University (NSU)"
   organization_url = ""
   title = "1st Runner Up for the final year Capstone Project, Capstone Innovation Challenge, Season 6, 2018."
   url = "https://www.daily-sun.com/printversion/details/359183/2018/12/24/Innovation-Challenge-at-NSU"
