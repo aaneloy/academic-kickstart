@@ -4,7 +4,7 @@
 widget = "accomplishments"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -26,39 +26,31 @@ date_format = "Jan 2006"
   organization = "NSU ACM Student Chapter"
   organization_url = ""
   title = "Certified Mentor of Robotics and Machine learning."
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = """
-  <div align="justify"> <strong>Course Description:</strong> </div>
 
-  """
+
+
 
 [[item]]
   organization = ""
   organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = "2019-05-23"
-  date_end = "2019-09-12"
-  description = """
-  <div align="justify"> <strong>Course Description:</strong> . </div>
+  title = "1st Runner Up for the final year Capstone Project, Capstone Innovation Challenge, Season 6, 2018."
+  url = "https://www.daily-sun.com/printversion/details/359183/2018/12/24/Innovation-Challenge-at-NSU"
 
-  """
+
   
 [[item]]
   organization = ""
   organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = "2019-05-23"
-  date_end = "2019-09-12"
-  description = """
-  <div align="justify"> <strong>Course Description:</strong> </div>
+  title = "Runner up - IEEE day Hackathon 2017."
 
-  """
+[[item]]
+  organization = "IEEE NSU SB"
+  organization_url = ""
+  title = "Runner up - IEEE day Hackathon 2017."
+
+ [[item]]
+  organization = ""
+  organization_url = ""
+  title = "Junior Board Scholarship – Class 8." 
 
 +++
