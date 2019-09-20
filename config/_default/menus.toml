@@ -8,10 +8,7 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Curriculum Vitae"
-  url = "#cv"
-  weight = 20
+  
 
 [[main]]
   name = "Teaching"
@@ -36,6 +33,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below. 
 [[main]]
-    name = "CV"
+    name = "Curriculum Vitae"
     url = "https://drive.google.com/file/d/1bWuQpVnL_emFMifSokD52FAD2ScEhgyb/view?usp=sharing"
     weight = 20
