@@ -18,7 +18,7 @@ authors = ["Asif Ahmed Neloy", "H. M. Sadman Haque", "Md. Mahmud Ul Islam"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "11th International Conference on Machine Learning and Computing"
+publication = "2019 11th International Conference on Machine Learning and Computing"
 publication_short = "ICMLC 2019"
 selected = true
 
@@ -52,8 +52,7 @@ url_pdf = ""
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 [[url_custom]]
-name = "ACM DL"
-url = "https://dl.acm.org/citation.cfm?id=3318377"
+[{name = "ACM DL", url = "https://dl.acm.org/citation.cfm?id=3318377"}]
 
 [[url_custom]]
 name = "DOI"
