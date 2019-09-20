@@ -30,7 +30,7 @@ the shortest path between two points. It uses a vector map of the floor and Dijk
 algorithm for calculating shortest path. For obstacle avoidance, it uses ultrasonic sensor modules and preloaded
 intelligence. The RFID scanner is used for identification and verification of destination and recalibrating
 position of the robot on a path by detecting other locations on the path. This system requires
-195 RPM and 1.75 seconds duration for the robot to successfully read the RFID tag..</div>
+195 RPM and 1.75 seconds duration for the robot to successfully read the RFID tag.</div>
 
 """
 abstract_short = ""
