@@ -34,8 +34,6 @@ Apartment rental prices are influenced by various factors. The aim of this study
 # Featured image thumbnail (optional)
 image_preview = ""
 
-# Is this a selected publication? (true/false)
-selected = true
 
 
 # Links (optional).
