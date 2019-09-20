@@ -37,7 +37,7 @@ image_preview = ""
 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://dl.acm.org/citation.cfm?id=3318377"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
