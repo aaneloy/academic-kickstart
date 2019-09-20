@@ -138,7 +138,7 @@ sharing = true
   #   3 = MLA
   #   4 = Stream
   post_view = 2
-  publication_view = 2
+  publication_view = 4
   talk_view = 2
 
 [comments]

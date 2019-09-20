@@ -18,7 +18,7 @@ authors = ["Asif Ahmed Neloy", "H. M. Sadman Haque", "Md. Mahmud Ul Islam"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "2019 11th International Conference on Machine Learning and Computing"
+publication = "2019 11th International Conference on Machine Learning and Computing, Zhuhai, China | Feb. 22-24, 2019"
 publication_short = "ICMLC 2019"
 selected = true
 
