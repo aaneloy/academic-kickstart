@@ -45,7 +45,7 @@ url_pdf = ""
 #url_slides = ""
 #url_video = ""
 #url_poster = ""
-#url_source = "https://dl.acm.org/citation.cfm?id=3318377"
+url_source = "https://dl.acm.org/citation.cfm?id=3318377"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
