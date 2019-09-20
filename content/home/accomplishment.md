@@ -14,7 +14,7 @@ weight = 50  # Order that this section will appear.
 
 title = "Accomplishments"
 subtitle = ""
-date_format = "Jan 2006"
+
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
