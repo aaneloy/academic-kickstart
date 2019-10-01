@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "CSE 331L: Microprocessor Interfacing & Embedded System (Lab)"
+  title = "CSE331L: Microprocessor Interfacing & Embedded System (Lab)"
   url = ""
   certificate_url = ""
   date_start = "2019-09-25"
