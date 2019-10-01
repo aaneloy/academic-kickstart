@@ -25,6 +25,18 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
+  title = "CSE 115L Programming Language I(Lab)"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-25"
+  date_end = ""
+  description = """
+  <div align="justify"> <strong>Course Description:</strong> This is the first course in the computer science programming and is required for all computer science and engineering majors. This course introduces the fundamental concepts of structured programming. Topics include fundamentals of computers and number systems, algorithms & flowcharts, fundamental programming constructs: syntax and semantics of a higher-level language, variables, expressions, operators, simple I/O to console and files, conditional and iterative control structures, functions and parameter passing, dynamic memory allocation; fundamental data structures: arrays, structures, strings and string processing; and testing and debugging strategies. </div>
+
+  """
+
+  organization = ""
+  organization_url = ""
   title = "CSE482: Internet and Web Technology"
   url = "https://github.com/NeloyNSU/CSE482_Summer-19_Section7_github.io"
   certificate_url = ""
