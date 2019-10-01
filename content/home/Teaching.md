@@ -25,7 +25,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "CSE 115L Programming Language I(Lab)"
+  title = "CSE115L: Programming Language I(Lab)"
   url = ""
   certificate_url = ""
   date_start = "2019-09-25"
