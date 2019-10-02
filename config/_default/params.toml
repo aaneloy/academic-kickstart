@@ -72,9 +72,9 @@ phone = "+8801860826446"
 #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Sunday 11:00 to 13:00<br>
-                  Tuesday 11:00 to 14:00<br>
-                  Saturday 11.00 to 15.00 (make an appointment earlier)<br>
+office_hours = """Sunday 12:00 to 14:00<br>
+                  Tuesday 12:00 to 14:00<br>
+                  Saturday 12.00 to 14.00 (make an appointment earlier)<br>
                   """
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
