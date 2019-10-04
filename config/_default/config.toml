@@ -73,6 +73,13 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   # Toggling this option needs to rebuild SCSS, requires Hugo extended version
   justifyContent = true  # Set "text-align: justify" to `.content`.
 
+gallery_item:
+- album: gallery
+  image: a.jpg
+  caption: 
+- album: gallery
+  image: b.JPG
+  caption: 
 
   # Color theme.
   # Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
