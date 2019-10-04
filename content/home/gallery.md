@@ -6,10 +6,12 @@ weight = 80  # Order that this section will appear.
 
 title = "Gallery"
 
+
 [header]
 image_preview = "a.jpg"
 image = "b.JPG"
 caption = "[Web] Scraping [Propolis]"
+![alternative text for search engines](/img/a.jpg)
 
 # ... Put Your Section Options Here (title etc.) ...
 
