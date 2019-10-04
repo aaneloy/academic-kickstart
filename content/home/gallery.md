@@ -6,7 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 
-![](/img/a.jpg)
 
 # ... Put Your Section Options Here (title etc.) ...
 
