@@ -8,7 +8,7 @@ weight = 80  # Order that this section will appear.
 title = "Gallery"
 
 [header]
-image = "a.jpg"
+image_preview = "a.jpg"
 
 # ... Put Your Section Options Here (title etc.) ...
 
