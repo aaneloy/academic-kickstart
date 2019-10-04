@@ -68,7 +68,7 @@ url = ""
 math = false
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 
 +++
