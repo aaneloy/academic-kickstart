@@ -64,7 +64,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: https://www.slideshare.net/slideshow/embed_code/key/yF8uzBTuymY23P
+  link: https://www.slideshare.net/slideshow/embed_code/key/G1mfYeoRsixVJu
 
 
 email: "asif.neloy@northsouth.edu"
