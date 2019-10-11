@@ -40,5 +40,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below. 
 [[main]]
     name = "Curriculum Vitae"
-    url = "http://bit.ly/32bbLJ2"
+    url = "https://www.slideshare.net/slideshow/embed_code/key/yF8uzBTuymY23P"
     weight = 20
