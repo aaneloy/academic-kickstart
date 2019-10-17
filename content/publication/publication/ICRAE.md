@@ -43,7 +43,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.researchgate.net/publication/336513375_Sigma-3_Integration_and_Analysis_of_a_6_DOF_Robotic_Arm_Configuration_in_a_Rescue_Robot"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

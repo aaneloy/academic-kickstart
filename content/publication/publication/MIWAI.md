@@ -37,7 +37,7 @@ image_preview = ""
 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.researchgate.net/publication/336513224_Content-Based_Health_Recommender_System_for_ICU_Patient"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
