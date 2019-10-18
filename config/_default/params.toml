@@ -73,7 +73,7 @@ address = "LIB600 (C7), North South University, Dhaka 1229"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "23°48'54.6", longitude = "90°25'37.2"}
+coordinates = {latitude = "23.8154", longitude = "90.4255"}
 
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
