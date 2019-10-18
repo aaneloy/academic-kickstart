@@ -154,6 +154,8 @@ sharing = true
   #   3: OpenStreetMap (Mapbox)
   engine = 3
   api_key = "pk.eyJ1IjoiYWFuZWxveSIsImEiOiJjazF3bTQwcXEwMnpvM25ydzR0dzgzaWx5In0.Uf69ZLWY8SIFV16KjBPbvA"
+  latitude = "23.815"
+  longitude = "90.4255"
   zoom = 15
 
 
