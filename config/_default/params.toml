@@ -71,6 +71,11 @@ email = "asif.neloy@northsouth.edu"
 phone = "+8801860826446"
 address = "LIB600 (C7), North South University, Dhaka 1229"
 
+# Geographic coordinates
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+coordinates = {latitude = "23°48'54.6"N", longitude = "90°25'37.2"E"}
+
+
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Sunday 12:00 to 14:00<br>
                   Tuesday 12:00 to 14:00<br>
