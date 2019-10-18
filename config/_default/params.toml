@@ -153,7 +153,7 @@ sharing = true
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   engine = 3
-  api_key = "pk.eyJ1IjoiYWFuZWxveSIsImEiOiJjazF3bTMxYzYwMW0yM2RtdGFwOGw1cHk0In0.VyP_Eh2Gf2MJPuknjxwkQA"
+  api_key = "pk.eyJ1IjoiYWFuZWxveSIsImEiOiJjazF3bTQwcXEwMnpvM25ydzR0dzgzaWx5In0.Uf69ZLWY8SIFV16KjBPbvA"
   zoom = 15
 
 
