@@ -69,7 +69,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "asif.neloy@northsouth.edu"
 phone = "+8801860826446"
-#address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+address = "LIB600 (C7), North South University, Dhaka 1229"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Sunday 12:00 to 14:00<br>
@@ -139,9 +139,9 @@ sharing = true
   #   2 = APA
   #   3 = MLA
   #   4 = Stream
-  post_view = 2
+  post_view = 1
   publication_view = 1
-  talk_view = 2
+  talk_view = 1
 
 [comments]
   # Comment provider:
