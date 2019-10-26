@@ -14,21 +14,9 @@ subtitle = ""
   # Page type to display. E.g. project.
   page_type = "accomplishments"
   
-"""
-<p style="text-align:justify;">
-CSE331:
-  
-  1. I will be unable from November 15th to November 24th. Therefore There will be no class for - CSE331L Section_4 (17th and 24th November) and CSE331L Section_3 (November 19th). 
 
-  2. Makeup Class: CSE331L Section_4 - 1.11.2019 - LIB - (2.40pm - 5.50pm) 
 
-  3. Quiz 1: CSE331L Section 3 - 5.11.2019 (Syllabus : Lab1 to Lab3)
 
-  4. Quiz 1: CSE331L Section 4 - 1.11.2019 (Syllabus : Lab1 to Lab3)
-
-  5. Midterm 1: CSE331L Section 4 - 3.11.2019 (Syllabus : Lab1 to Lab4)
-</p>
-"""
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -94,4 +82,18 @@ CSE331:
  # CSS class.
  css_class = ""
 +++
+
+<p style="text-align:justify;">
+CSE331:
+  
+  1. I will be unable from November 15th to November 24th. Therefore There will be no class for - CSE331L Section_4 (17th and 24th November) and CSE331L Section_3 (November 19th). 
+
+  2. Makeup Class: CSE331L Section_4 - 1.11.2019 - LIB - (2.40pm - 5.50pm) 
+
+  3. Quiz 1: CSE331L Section 3 - 5.11.2019 (Syllabus : Lab1 to Lab3)
+
+  4. Quiz 1: CSE331L Section 4 - 1.11.2019 (Syllabus : Lab1 to Lab3)
+
+  5. Midterm 1: CSE331L Section 4 - 3.11.2019 (Syllabus : Lab1 to Lab4)
+</p>
 
