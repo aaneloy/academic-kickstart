@@ -8,23 +8,40 @@ weight = 80  # Order that this section will appear.
 title = "Notice"
 subtitle = ""
 
+
+
 [content]
   # Page type to display. E.g. project.
   page_type = "accomplishments"
   
+  CSE331:
+  
+  1. I will be unable from November 15th to November 24th. Therefore There will be no class for - CSE331L Section_4 (17th and 24th November) and CSE331L Section_3 (November 19th). 
+
+  2. Makeup Class: CSE331L Section_4 - 1.11.2019 - LIB - (2.40pm - 5.50pm) 
+
+  3. Quiz 1: CSE331L Section 3 - 5.11.2019 (Syllabus : Lab1 to Lab3)
+
+  4. Quiz 1: CSE331L Section 4 - 1.11.2019 (Syllabus : Lab1 to Lab3)
+
+  5. Midterm 1: CSE331L Section 4 - 3.11.2019 (Syllabus : Lab1 to Lab4)
+
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-  
+ 
+   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
   # [[content.filter_button]]
   #   name = "All"
   #   tag = "*"
-  
+
+
+ 
   # [[content.filter_button]]
   #   name = "Deep Learning"
   #   tag = "Deep Learning"
