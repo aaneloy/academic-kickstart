@@ -84,16 +84,17 @@ subtitle = ""
 +++
 
 <p style="text-align:justify;">
-CSE331:</br>
+
+CSE331L: Section 3 and Section 4</br>
   
-  1. I will be unable from November 15th to November 24th. Therefore There will be no class for - CSE331L Section_4 (17th and 24th November) and CSE331L Section_3 (November 19th).</br> 
+  1. I will be unable from <b>November 15th to November 24th</b>. Therefore There will be no class for - <b>CSE331L Section_4 (17th and 24th November)</b> and <b>CSE331L Section_3 (November 19th)</b>.</br> 
 
-  2. Makeup Class: CSE331L Section_4 - 1.11.2019 - LIB - (2.40pm - 5.50pm). </br>
+  2. <b>Makeup Class:</b> CSE331L Section_4 - 1.11.2019 - LIB - (2.40pm - 5.50pm). </br>
 
-  3. Quiz 1: CSE331L Section 3 - 5.11.2019 (Syllabus : Lab1 to Lab3). </br>
+  3. <b>Quiz 1:</b> CSE331L Section 3 - 5.11.2019 <b>(Syllabus : Lab1 to Lab3)</b>. </br>
 
-  4. Quiz 1: CSE331L Section 4 - 1.11.2019 (Syllabus : Lab1 to Lab3). </br>
+  4. <b>Quiz 1:</b> CSE331L Section 4 - 1.11.2019 <b>(Syllabus : Lab1 to Lab3)</b>. </br>
 
-  5. Midterm 1: CSE331L Section 4 - 3.11.2019 (Syllabus : Lab1 to Lab4). </br>
+  5. <b>Midterm 1:</b> CSE331L Section 4 - 3.11.2019 <b>(Syllabus : Lab1 to Lab4)</b>. </br>
 </p>
 
