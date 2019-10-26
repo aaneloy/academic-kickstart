@@ -14,7 +14,7 @@ subtitle = ""
   # Page type to display. E.g. project.
   page_type = "accomplishments"
   
-  CSE331:
+[CSE331:]
   
   1. I will be unable from November 15th to November 24th. Therefore There will be no class for - CSE331L Section_4 (17th and 24th November) and CSE331L Section_3 (November 19th). 
 
@@ -32,7 +32,7 @@ subtitle = ""
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
  
-   
+
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
