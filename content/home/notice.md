@@ -97,7 +97,7 @@ subtitle = ""
 
   5. <b>Midterm 1:</b> CSE331L Section 4 - 3.11.2019 <b>(Syllabus : Lab1 to Lab4)</b>. </br></br>
 
-  <b>CSE115L : Section 12</br>
+  </br><b>CSE115L : Section 12</br>
   1. I will be unable from <b>November 15th to November 24th</b>. Therefore There will be no class for - <b>CSE115L Section_12 from November 17th to  November 24th (17.11.2019, 19.11.2019 and 24.11.2019)</b>.</br>
 
   2. <b>Makeup Class:</b> CSE115L Section_12 - 1.11.2019 - LIB - (10.00am - 12.00pm).</br>
