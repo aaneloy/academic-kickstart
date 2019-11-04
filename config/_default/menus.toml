@@ -19,12 +19,7 @@
   name = "Accomplishments"
   url = "#accomplishment"
   weight = 30
-
-
-[[main]]
-  name = "Announcement"
-  url = "#notice"
-  weight = 60
+  
 
 [[main]]
   name = "Publications"
