@@ -45,7 +45,7 @@ url_pdf = "https://www.researchgate.net/publication/336513224_Content-Based_Heal
 #url_slides = ""
 #url_video = ""
 #url_poster = ""
-url_source = ""
+url_source = "https://link.springer.com/chapter/10.1007/978-3-030-33709-4_20"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
