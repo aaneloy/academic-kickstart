@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 
-role: <strong>Lab Officer</strong> <br><a href="http://ece.northsouth.edu/" target="_blank">Department of Electrical and Computer Engineering (ECE)</a>
+role: <strong>Information Analyst</strong> <br><a href="http://www.aci-bd.com/" target="_blank">ACI Limited</a>
 
 
 
