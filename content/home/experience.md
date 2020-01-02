@@ -18,6 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Information Analyst"
+  company = "ACI Limited, Dhaka, Bangladesh"
+  company_url = "http://www.aci-bd.com/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2020-01-02"
+  date_end = ""
+  description = """
+  Responsibilities include: <div align="justify"> 
+  
+  * Interpret and translate data into valuable information effective for analysis purpose.
+  * Analyze client's requirements to provide suggestions in order to deliver products that are aligned with the ultimate business requirement..
+  * Oversee implementation of new system, support users in adapting to the system by ensuring proper training and guidelines.
+
+  </div>
+
+
+  """
 
 [[experience]]
   title = "Lab Officer"
