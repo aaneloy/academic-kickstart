@@ -15,7 +15,7 @@ role: <strong>Information Analyst</strong> <br><a href="http://www.aci-bd.com/" 
 
 
 organizations: 
-- name: Lab Officer, ECE, North South University
+- name: Lab Officer-ECE-North South University
   url: "http://www.northsouth.edu/"
 
 
