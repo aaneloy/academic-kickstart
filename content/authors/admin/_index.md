@@ -64,7 +64,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/2ztki50yvxbdm8e/aaneloy_CV_2019.pdf?dl=0
+  link: https://www.dropbox.com/s/9mjlp3q80rpmqji/cv.pdf?dl=0
 
 
 email: "asif.neloy@northsouth.edu"
