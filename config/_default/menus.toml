@@ -36,9 +36,3 @@
   url = "#contact"
   weight = 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below. 
-[[main]]
-    name = "Curriculum Vitae"
-    url = "https://www.dropbox.com/s/2ztki50yvxbdm8e/aaneloy_CV_2019.pdf?dl=0"
-    weight = 20
