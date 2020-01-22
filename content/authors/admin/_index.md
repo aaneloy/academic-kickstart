@@ -19,12 +19,12 @@ organizations:
   url: "http://www.northsouth.edu/"
 
 
-bio: My research interests include Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision, ROS.
+bio: My research interests include Data Science, Machine Learning, Deep learning, IoT, Robotics, Computer Vision and ROS.
 
 Interests:
 - Artificial Intelligence
+- Data Science
 - Robotics
-- IoT
 
 Education:
   courses:
@@ -33,7 +33,7 @@ Education:
     year: December 2018
 
   - course: Higher Secondary School Certificate (HSC)
-    institution: Ananda Mohan College, Mymensingh, Bangladesh
+    institution: Govt. Ananda Mohan College, Mymensingh, Bangladesh
     year: 2014
 
   - course: Secondary School Certificate(SSC)
@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the BS. Degree in Computer Science and Engineering from North South University, Dhaka, Bangladesh. He is working as an <strong>Information Analyst</strong> at <strong>ACI Limited</strong>. Also, he is a<strong> Laboratory Officer</strong> of the Dept of Electrical and Computer Engineering (ECE), North South University. He is a former <strong>Undergraduate Teaching Assistant (UGA) </strong> of ECE, NSU. Neloy is the <strong>Founding Secretary (2017-2018)</strong> and <strong>Vice-Chair (2018-2019)</strong>  of NSU ACM Student Chapter, the first affiliated Student chapter of Bangladesh under ACM HQ. For his contribution towards NSU ACM SC, he received <strong>Service of Recognition</strong> award from ACM. <br>His skills include <i>machine learning, statistics, problem-solving, business analysis, algorithms, data visualization,</i> and <i>creative thinking</i>.  
+<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the <strong>BS. Degree in Computer Science and Engineering (BS CSE)</strong> from North South University, Dhaka, Bangladesh. He is working as an <strong>Information Analyst</strong> at <strong> Advanced Chemical Industries Limited (ACI Ltd.) </strong>. Also, he serving as a part-time <strong> Lab Instructor</strong> at the Dept of Electrical and Computer Engineering (ECE), North South University. Also, he was an <strong>Undergraduate Teaching Assistant (UGA) </strong> of ECE, NSU. Neloy is the <strong>Founding Secretary (2017-2018)</strong> and <strong>Vice-Chair (2018-2019)</strong>  of NSU ACM Student Chapter, the first affiliated Student chapter of Bangladesh under ACM HQ. For his contribution towards NSU ACM SC, he received <strong>Service of Recognition</strong> award from ACM. <br>His skills include <i>machine learning, statistics, problem-solving, business analysis, algorithms, data visualization,</i> and <i>creative thinking</i>. 
 
 </p>
 
