@@ -16,7 +16,7 @@ baseurl = "https://aaneloy.netlify.com/"
 # copyright = ""
 copyright = "&copy; Asif Ahmed Neloy - {year}"
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "145007712"
+googleAnalytics = "UA-156701633-1"
 
 ############################
 ## Advanced options below ##
