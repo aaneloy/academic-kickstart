@@ -22,6 +22,19 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "CSE331L: Microprocessor Interfacing & Embedded System (Lab)"
+  url = "https://neloynsu.github.io/aaneloy_CSE331L/aaneloy_cse331L_Fall19.html"
+  certificate_url = ""
+  date_start = "2019-09-25"
+  date_end = " "
+  description = """
+  <div align="justify"> <strong>Course Description:</strong> This course provides an introduction to the fundamental concept of microprocessor architecture and microprocessor based embedded systems. A basic idea of the internal and external architecture of the microprocessor 8086 will be provided followed by the physical pin diagram of microprocessor 8086. The course will also cover the other peripheral devices of a microprocessor based system i.e. RAM 6116, PIO 8255 Controller and 7-Segment Display. The course will then cover the programming languages for interfacing: Assembly language followed by Interrupt and data conversion algorithm. A brief introduction to the Microcontroller 8051 will also be provided. Simulation software tool: emulator 8086 will be introduced in the laboratory classes for doing simulation-based project works. This course has separate mandatory laboratory session every week as CSE 331L </div>
+
+  """
 [[item]]
   organization = ""
   organization_url = ""
@@ -32,18 +45,6 @@ date_format = "Jan 2006"
   date_end = "2019-12-28"
   description = """
   <div align="justify"> <strong>Course Description:</strong> This is the first course in the computer science programming and is required for all computer science and engineering majors. This course introduces the fundamental concepts of structured programming. Topics include fundamentals of computers and number systems, algorithms & flowcharts, fundamental programming constructs: syntax and semantics of a higher-level language, variables, expressions, operators, simple I/O to console and files, conditional and iterative control structures, functions and parameter passing, dynamic memory allocation; fundamental data structures: arrays, structures, strings and string processing; and testing and debugging strategies. </div>
-
-  """
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "CSE331L: Microprocessor Interfacing & Embedded System (Lab)"
-  url = "https://neloynsu.github.io/aaneloy_CSE331L_Fall2019/aaneloy_cse331L_Fall19.html"
-  certificate_url = ""
-  date_start = "2019-09-25"
-  date_end = "2019-12-28"
-  description = """
-  <div align="justify"> <strong>Course Description:</strong> This course provides an introduction to the fundamental concept of microprocessor architecture and microprocessor based embedded systems. A basic idea of the internal and external architecture of the microprocessor 8086 will be provided followed by the physical pin diagram of microprocessor 8086. The course will also cover the other peripheral devices of a microprocessor based system i.e. RAM 6116, PIO 8255 Controller and 7-Segment Display. The course will then cover the programming languages for interfacing: Assembly language followed by Interrupt and data conversion algorithm. A brief introduction to the Microcontroller 8051 will also be provided. Simulation software tool: emulator 8086 will be introduced in the laboratory classes for doing simulation-based project works. This course has separate mandatory laboratory session every week as CSE 331L </div>
 
   """
 
