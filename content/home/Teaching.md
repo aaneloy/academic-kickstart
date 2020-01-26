@@ -34,6 +34,8 @@ date_format = "Jan 2006"
   description = """
   <div align="justify"> <strong>Course Description:</strong> This course introduces students with database management systems for the first time in their undergraduate study. Drawbacks of flat file system are demonstrated and advantages of relational database systems are introduced. The course examines the logical organization of databases: the entity-relationship model; the hierarchical, network, and relational data models and their languages. Functional dependencies and normal forms are discussed. Design, implementation, and optimization of query languages; security and integrity; concurrency control, different level of indices, e.g., tree and hash-based indices are introduced. Access costs are compared for different alternatives. This course has separate mandatory laboratory sessions every week in a separate course CSE 311L which has 0 credits, but the students (in group) use hands on SQL queries and as a culmination, they build a full-fledged database system including a front end. The evaluation of the lab works is carried over to the theory part of the course</div>
 
+  """
+
 [[item]]
   organization = ""
   organization_url = ""
