@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Lab Officer"
+  title = "Lab Instructor"
   company = "North South University, Dhaka, Bangladesh"
   company_url = "http://ece.northsouth.edu/"
   location = "Dhaka, Bangladesh"
