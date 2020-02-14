@@ -6,7 +6,7 @@
   HUGO_VERSION = "0.62.1"
   HUGO_ENABLEGITINFO = "true"
 
-[context.production.environment]2
+[context.production.environment]
   HUGO_ENV = "production"
 
 [context.deploy-preview]
