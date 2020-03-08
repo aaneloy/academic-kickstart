@@ -60,11 +60,7 @@ social:
 
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Asif_Neloy?ev=hdr_xprf
-
-- icon: cv
-  icon_pack: ai
-  link: https://www.dropbox.com/s/9mjlp3q80rpmqji/cv.pdf?dl=0
+  link: https://www.researchgate.net/profile/Asif_Neloy?ev=hdr_xpr
 
 
 email: "asif.neloy@northsouth.edu"
