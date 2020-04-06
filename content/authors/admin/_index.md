@@ -71,9 +71,6 @@ user_groups:
 - Visitors
 ---
 
-<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the <strong>Bachelor of Science in Computer Science and Engineering (BS CSE)</strong> from North South University, Dhaka, Bangladesh. He is an <strong>Information Analyst</strong> at the <strong> <a href="http://www.aci-bd.com/" target="_blank">Advanced Chemical Industries Limited (ACI Ltd) </strong></a>. Also, he is serving as a part-time <strong> Lab Instructor</strong> at the <strong><a href="http://ece.northsouth.edu/" target="_blank">Dept of Electrical and Computer Engineering (ECE), North South University.</strong></a> Before that, he was an <strong>Undergraduate Teaching Assistant (UGA) </strong> of ECE, NSU. Neloy is the <strong>Founding Secretary (2017-2018)</strong> and <strong>Vice-Chair (2018-2019)</strong> of <strong><a href="http://ece.northsouth.edu/nsu-activities-and-services/acm-student-chapter/" target="_blank">NSU ACM Student Chapter</strong></a>, the first affiliated Student chapter of Bangladesh under ACM HQ. For his contribution towards NSU ACM SC, he received <strong>Service of Recognition</strong> award from ACM. <br>His skills include <i>machine learning, statistics, problem-solving, business analysis, algorithms, data visualization,</i> and <i>creative thinking</i>. 
-
-</p>
 
 
 
