@@ -44,14 +44,14 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://www.researchgate.net/publication/336513375_Sigma-3_Integration_and_Analysis_of_a_6_DOF_Robotic_Arm_Configuration_in_a_Rescue_Robot"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/2002.11944"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://ieeexplore.ieee.org/document/9043799"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 #[header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption 😄"
+image = "icrae.png"
+caption = "Sigma-3 Body Design"
 
 +++
